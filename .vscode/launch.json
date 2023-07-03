@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Charles/Documents/Arquivos Github/diversos",
-      "program": "c:/Users/Charles/Documents/Arquivos Github/diversos/build/Debug/outDebug",
+      "cwd": "c:/Users/Charles/Documents/Arquivos Github/diversos/output",
+      "program": "c:/Users/Charles/Documents/Arquivos Github/diversos/output/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
