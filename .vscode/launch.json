@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/Charles/Documents/Arquivos Github/diversos/output",
-      "program": "c:/Users/Charles/Documents/Arquivos Github/diversos/output/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/charles/Documentos/GitHub/diversos",
+      "program": "/home/charles/Documentos/GitHub/diversos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
